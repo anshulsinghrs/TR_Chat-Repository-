@@ -1,0 +1,6 @@
+{
+  "name": "Local AI PDF Chat Repository & Simulator",
+  "description": "A tactical cyberpunk command center and code repository browser for a multi-user, local-network PDF chat system running Ollama & ChromaDB.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
